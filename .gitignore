@@ -1,0 +1,5 @@
+aamath
+*.o
+parser.cc
+parser.h
+lexer.cc
